@@ -172,3 +172,6 @@ fun DefaultPreview() {
         JourneyScreen(viewModel)
     }
 }
+
+//Claudiano Alves, Davi Fabrício, Jean Prado
+//RGM: 33958238, 34313001, 8812295272
